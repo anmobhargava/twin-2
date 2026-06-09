@@ -1,0 +1,38 @@
+{
+    "full_name": "Anmol Bhargava",
+    "name": "Anmol",
+    "current_role": "Associate Manager, Growth Modeling & Advanced Analytics",
+    "location": "Jersey City, New Jersey, USA",
+    "email": "anmol.bhargava89@gmail.com",
+    "linkedin": "linkedin.com/in/anmolbhargava",
+    "specialties": [
+      "Marketing Mix Modeling (MMM)",
+      "Rapid ROI Modeling (RROI)",
+      "Advanced Analytics",
+      "Machine Learning",
+      "Forecasting & Budget Optimization",
+      "Agentic AI Systems",
+      "Generative AI",
+      "MLOps & Cloud Engineering",
+      "Python & SQL",
+      "Attribution & Incrementality Measurement"
+    ],
+    "years_experience": 10,
+    "education": [
+      {
+        "degree": "MS Business Analytics",
+        "institution": "University of Maryland",
+        "year": "2019"
+      },
+      {
+        "degree": "MS Project Management",
+        "institution": "Harrisburg University",
+        "year": "2024"
+      },
+      {
+        "degree": "B.Tech Mechanical Engineering",
+        "institution": "Maharshi Dayanand University",
+        "year": "2012"
+      }
+    ]
+  }

@@ -1,0 +1,10 @@
+.venv/
+.env
+backend/.env
+**/.env
+**/.terraform/*
+*.tfstate
+*.tfstate.*
+.DS_Store
+__pycache__/
+*.pyc
